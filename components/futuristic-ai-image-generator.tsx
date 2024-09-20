@@ -130,7 +130,7 @@ export function FuturisticAiImageGenerator() {
 
       <footer className="relative py-8 px-4 text-center z-10">
         <p>&copy; 2024 Private AI. All rights reserved.</p>
-        <p className="mt-2 text-sm text-blue-400">Shaping tomorrow's reality, today</p>
+        <p className="mt-2 text-sm text-blue-400">Shaping tomorrow&apos;s reality, today</p>
       </footer>
 
       {loading && (
